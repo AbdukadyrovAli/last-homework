@@ -1,0 +1,15 @@
+.headerDiv {
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(25, 25, 163);
+    align-items: center;
+}
+
+.headerDiv h2{
+    margin-left: 50px;
+    color: white;
+    
+}
+
+
