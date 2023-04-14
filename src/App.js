@@ -17,7 +17,6 @@ function App() {
 
   function removeHandler(id) {
     const remove = movie.filter((i) => i.id !== id);
-    console.log("id", id);
     setMovie(remove);
   }
 
